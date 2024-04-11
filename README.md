@@ -24,5 +24,12 @@
     <a href="https://img.shields.io/badge/Mysql-%23666666.svg?style=for-the-badge&logo=MySql&logoColor=white"><img src="https://img.shields.io/badge/Mysql-%23666666.svg?style=for-the-badge&logo=MySql&logoColor=white" width="80" height="24"/></a>&nbsp 
     <a href="https://img.shields.io/badge/PostgreSQL-%23666666.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-%23666666.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" width="100" height="24"/></a>&nbsp
   </p>
+
+<p> This is a list of my most recent activity on GitHub. </p>
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+
 </div>
 
