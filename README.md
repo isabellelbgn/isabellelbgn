@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=FEF5F5&text=Hi!%20I'm%20Isabelle%20👋🏻&desc=Third%20Year%20Computer%20Science%20Student&fontSize=60&animation=fadeIn&fontAlign=69&fontAlignY=30&descAlign=68&descAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=decbf4&text=Hi!%20I'm%20Isabelle%20👋🏻&desc=Third%20Year%20Computer%20Science%20Student&fontSize=60&animation=fadeIn&fontAlign=69&fontAlignY=30&descAlign=68&descAlignY=45)
 
 <div align="center">
 
@@ -7,9 +7,9 @@
   
   <h3 align="center">Connect With Me</h3>
   <p align="center">
-    <a href="https://www.linkedin.com/in/isabellelabuguen/"><img src="https://img.shields.io/badge/LinkedIn-%23008080.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isabellelabuguen/"/></a>
-    <a href="https://www.instagram.com/isabellelbgn/"><img src="https://img.shields.io/badge/Instagram-%23008080.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/isabellelbgn/"/></a>
-    <a href="mailto:isabellelbgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23008080.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=isabellelbgn@gmail.com"/></a>
+    <a href="https://www.linkedin.com/in/isabellelabuguen/"><img src="https://img.shields.io/badge/LinkedIn-%2370a5fc.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/isabellelabuguen/"/></a>
+    <a href="https://www.instagram.com/isabellelbgn/"><img src="https://img.shields.io/badge/Instagram-%2370a5fc.svg?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/isabellelbgn/"/></a>
+    <a href="mailto:isabellelbgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2370a5fc.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=isabellelbgn@gmail.com"/></a>
   </p>
   
   <h3 align="center">Tech Stack</h3>
@@ -25,11 +25,7 @@
     <a href="https://img.shields.io/badge/PostgreSQL-%23666666.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-%23666666.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" width="100" height="24"/></a>&nbsp
   </p>
 
-<p> This is a list of my most recent activity on GitHub. </p>
-
-<!--RECENT_ACTIVITY:start-->
-
-<!--RECENT_ACTIVITY:last_update-->
+[![GitHub Streak](https://streak-stats.demolab.com?user=isabellelbgn&theme=tokyonight-duo&hide_border=true&border_radius=5)](https://git.io/streak-stats)
 
 </div>
 
