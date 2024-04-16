@@ -25,7 +25,6 @@
     <a href="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" width="100" height="24"/></a>&nbsp
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=isabellelbgn&theme=tokyonight-duo&hide_border=true&border_radius=5)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=isabellelbgn&theme=tokyonight-duo)](https://git.io/streak-stats)
 </div>
 
