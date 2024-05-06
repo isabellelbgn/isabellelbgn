@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=cdabf4&text=Hi!%20I'm%20Isabelle%20👋🏻&desc=Third%20Year%20Computer%20Science%20Student&fontSize=60&animation=fadeIn&fontAlign=69&fontAlignY=30&descAlign=68&descAlignY=45)
-
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi!%20I'm%20Isabelle%20%20👋🏻&desc=Backend%20Developer&textBg=false&animation=fadeIn&descSize=27&reversal=false&fontAlign=68&fontAlignY=34&descAlign=73&descAlignY=50&fontSize=60)
 <div align="center">
 
 <p align="center"> Join me as I explore and learn new languages, sharpening my coding skills one line at a time! 💻✨ 
