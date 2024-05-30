@@ -11,7 +11,7 @@
     <a href="mailto:isabellelbgn@gmail.com"><img src="https://img.shields.io/badge/Gmail-%2370a5fc.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=isabellelbgn@gmail.com"/></a>
   </p>
   
-  <h3 align="center">Tech Stack</h3>
+<h3 align="center">Tech Stack</h3>
 <p align="center">
     <a href="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"><img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white" width="60" height="24" /></a>&nbsp 
     <a href="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white"><img src="https://img.shields.io/badge/Javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white" width="100" height="24" /></a>&nbsp 
@@ -27,6 +27,13 @@
     <a href="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" width="100" height="24"/></a>&nbsp
 </p>
 
+<h3 align="center">Github Activity</h3>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=isabellelbgn&theme=tokyonight-duo)](https://git.io/streak-stats)
+ <br/>
+
+<h3 align="center">Currently Exploring</h3>
+
+[![roadmap.sh](https://roadmap.sh/card/tall/665009b0d6b907c7f78c8446?variant=light&roadmaps=backend%2Cjava%2Cspring-boot)](https://roadmap.sh)
 </div>
 
