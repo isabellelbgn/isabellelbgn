@@ -36,8 +36,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=isabellelbgn&theme=tokyonight-duo)](https://git.io/streak-stats)
  <br/>
 
-<h3 align="center">Currently Exploring</h3>
-
-[![roadmap.sh](https://roadmap.sh/card/tall/665009b0d6b907c7f78c8446?variant=light&roadmaps=backend%2Cjava%2Cspring-boot)](https://roadmap.sh)
 </div>
 
