@@ -29,6 +29,9 @@
  <br/>
     <a href="https://img.shields.io/badge/Mysql-%234479A1.svg?style=for-the-badge&logo=MySql&logoColor=white"><img src="https://img.shields.io/badge/Mysql-%234479A1.svg?style=for-the-badge&logo=MySql&logoColor=white" width="75" height="24"/></a>&nbsp 
     <a href="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white"><img src="https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" width="110" height="24"/></a>&nbsp
+    <a href="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"><img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" width="75" height="24"/></a>&nbsp
+<a href="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"><img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" width="100" height="24"/></a>&nbsp
+
 </p>
 
 <h3 align="center">Github Activity</h3>
