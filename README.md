@@ -1,8 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=Hi!%20I'm%20Isabelle%20%20👋🏻&textBg=false&animation=fadeIn&reversal=false&fontAlign=68&fontAlignY=34&fontSize=60)
+
 <div align="center">
 
-<p align="center"> Join me as I explore and learn new languages, sharpening my coding skills one line at a time! 💻✨ 
-<br> Feel free to connect, share tips, or just say hi! 
 
 <h3 align="center">Connect With Me</h3>
 <p align="center">
